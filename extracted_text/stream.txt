@@ -1,0 +1,220 @@
+Scraped Data
+Vidyavardhini's College Of Engineering & Technology, Vasai Road
+??????????????? ???????????? ??? ?????????? ???????????, ??? ???
+(Approved by AICTE, DTE Maharashtra and Affiliated to University of Mumbai)
+NBA & NAAC Accredited
+Computer Science and Engineering (Data Science)
+Home»Computer Science and Engineering (Data Science)
+The Computer Science & Engineering ( Data Science)Department is established in the year 2019. 
+Having started with a four-year undergraduate program, B. E. (CSE -DS), the department is willing
+to start the Post Graduate Program, M. E. CSE-DS with specializations, shortly in coming days.
+Data Science is a field of Scientific theories where Unstructured, Raw data is taken and moulded
+into meaningful information by means of Programming, Business skills, and Analytics. Many
+Multinational Companies across the globe are using Digital methods to Rationalize their work and
+Maintaining their Inventory. This Technological advancement helps in various factors like Cost
+Saving, Resource Saving, and Time-Saving. The concept of Data science consists of various
+components or sub building units that help to segregate or segment data using calculus and
+algorithms, it?s a time-saving process. The data can be either in structured form or unstructured
+form, the structured form data can be in form of a tabular form or Excel sheets, etc whereas the
+unstructured form of data can be Images, audios, videos, pdf files, etc DML Data ManipulationScraped Data
+Language is used to Manipulate and Extract meaningful data out of junk. Until and unless the Data
+Scientists don?t have a good knowledge about statistics and Probability, they are not capable of
+segmenting data, it may lead to the high possibility of misinterpreting data and reaching to the
+incorrect conclusions. The Data Scientists have to work over the algorithms of Machine learning in
+day-to-day life. The regression and Classification concepts help the Data scientists to predict the
+valuable insights from all the Unstructured or structured form of Data available. The concept of Big
+Data helps to extract the main information out of all the possible raw data available. Like we can
+separate oil from water. The Data Scientist uses various concepts and skills to extract data like
+JAVA, R, Apache Spark, Hadoop Etc.Thus, there are many more components of data science
+available and every component works on different algorithms.Skills Required for Data Science
+career:Programming SkillsStatisticsMachine LearningMultivariable Calculus & Linear AlgebraData
+WranglingData Visualization & CommunicationSoftware EngineeringData IntuitionSome of the
+prominent data science roles are listed below :Data ScientistA Data Scientist?s primary job role is to
+extract consumable information from structured and unstructured data with computer programming
+tools and processes. Their job also includes creating methodology and blueprint to present
+information to stakeholders. They are also supposed to maintain databases.Data AnalystA Data
+Analyst has the responsibility of analyzing the data, identifying trends, and creating a predictive
+model based on data studied. Another critical responsibility of a Data Analyst is to translate findings
+into reports, which can be understood by the management, and help them accurately visualize the
+possible outcome. They are also supposed to maintain databases and data systems.Data
+EngineerData Engineers are required to study data, develop data set processes, prepare the
+predictive model, and build algorithms through which stakeholders can easily consume raw data. It
+may include developing dashboards and reports that can be accessed and used by all stakeholders.
+Data Engineers need to have strong communication skills to be able to understand client?sScraped Data
+requirements and objectives.
+ Analysts predict that the country will have more than 11 million job openings by 2026. In fact, since
+2019, hiring in the data science industry has increased by 46%. Yet, around 93,000 jobs in Data
+Science were vacant at the end of August 2020 in India.Data Mining EngineerThe job of a Data
+Mining Engineer is mainly extracting data from an extensive database and analyzing them. They are
+also responsible for building and maintaining software and digital infrastructure to study big chunks
+of data.Data ArchitectData Architect?s role is to ensure that data used in creating a blueprint of a
+project is stable, secure, and available to all stakeholders at all times. The job role includes collating,
+organizing, centralizing, maintaining, and protecting a company or client?s data.Data StatisticianThis
+job role includes critical responsibilities such as extraction of data using statistical methodologies
+and analyzing, organizing, and contextualizing data and its subsets. A Data Statistician is supposed
+to conduct tests to determine the reliability and accuracy of data.Project ManagerData mining,
+extraction, testing, analysis, and application for creating a blueprint is a wide field of work that
+requires management to optimize the resources being used on a project. A Project Manager?s role
+is to oversee and guide the execution of the project. They act as a medium between the team and
+clients to communicate requirements and changes in the project.
+Skills Required for Data Science career:
+Some of the prominent data science roles are listed below :
+Data Scientist
+Data AnalystScraped Data
+Data Engineer
+Data Mining Engineer
+Data Architect
+Data Statistician
+Project Manager
+Vision?To be a front-runner in future tech and data-driven innovation through an interdisciplinary
+excellence in Computer Science and Engineering with a focus on Data science.?MissionTo provide
+an environment for learning data science, fostering expertise and innovation.To promote
+interdisciplinary innovations in emerging data technologies.To foster Quality education, ethical
+values, meeting personal, professional, and societal needs on a holistic level.
+Vision
+?To be a front-runner in future tech and data-driven innovation through an interdisciplinary
+excellence in Computer Science and Engineering with a focus on Data science.?
+Mission
+Departmental Advisory Board (DAB)Following are the members of the committee starting fromScraped Data
+2022-23.SR.NO.NAME OF THE MEMBERDESIGNATIONORGANIZATIONROLE IN DAB1Dr.
+Harish
+VankudrePrincipalVCET, VasaiChairman2Dr. Vikas GuptaDean Academics and
+HOD-CSEDSVCET, VasaiDean3Dr. Bhushan JadhavAssociate Professor, AIDS Dept.Thadomal
+Sahani College of EngineeringAcademic Representative4Dr. Anjali YeoleDeputy Head, AIDS
+Dept.Vivekanand Education Society?s Institute of TechnologyAcademic Representative5Mr.
+Jeetendra ShenoyArchitectL&T InfotechIndustry Representative6Mr. Sachin SadareDirectorDigital
+Dojo Pvt. Ltd.Industry Representative7Mr. Yogesh  PingleDeputy HOD-CSEDSVCET,
+VasaiSecretary8Mrs. Krunali VartakAssistant Professor, CSEDSVCET, VasaiSr. Faculty9Mr. Sahil
+GujralBE StudentVCET, VasaiStudent
+Representative10Ms. Puja ChafekarTE StudentVCET, VasaiStudent Representative11Adv. Sunil V.
+VaravdekarBAR  CouncilBombay High CourtParent Representative
+Departmental Advisory Board (DAB)
+Mou:Mou List
+Mou:
+Patents Published
+ :PatentScraped Data
+Patents Published
+ :
+Program Outcomes (POs):1. An ability to apply knowledge of mathematics, science, and
+Engineering.2. An ability to design and conduct experiments, as well as to analyze and interpret
+data.3. An ability to design a system, component, or process to meet desired needs within realistic
+constraints.4. An ability to design a system, component, or process to meet desired needs within
+realistic constraints.5. An ability to use the techniques, skills, and modern engineering tools
+necessary for civil engineering practice.6. nowledge of contemporary issues.7. The broad education
+necessary to understand the impact of engineering solutions in a global, economic, environmental
+and societal context.8. An understanding of professional and ethical responsibility9. An ability to
+function in multidisciplinary teams.10. An ability to communicate effectively.11. Recognition of the
+need for, and an ability to engage in life-long learning12. An understanding of engineering and
+management principles and apply these to one?s own work, as a member and leader in a team, to
+manage projects.Program Educational Objectives (PEOs):Program Specific Outcomes
+(PSOs):PSO1- To apply the knowledge of Data science to analyze, design and implement
+application specific problems with modern AI tools.PSO2- To Analyze problems and design
+applications to forecast, predict and decision-making using IoT, Big data analytics, Artificial
+Intelligent, Machine learning technologies.
+Program Outcomes (POs):
+Program Educational Objectives (PEOs):Scraped Data
+Program Specific Outcomes (PSOs):
+PSO1- To apply the knowledge of Data science to analyze, design and implement application
+specific problems with modern AI tools.PSO2- To Analyze problems and design applications to
+forecast, predict and decision-making using IoT, Big data analytics, Artificial Intelligent, Machine
+learning technologies.
+Mr. Yogesh PingleDeputy HOD & Asst. Prof.(Ph.D pursuing)yogesh.pingle@vcet.edu.inMs. Krunali
+VartakAsst. Prof.krunali.vartak@vcet.edu.inMs. Maya VargheseAsst.
+Prof.maya.varghese@vcet.edu.inMs. Janisa PereiraAsst. Prof.janisa.pereira@vcet.edu.inMr.
+Sumeet ShingiAsst. Prof.sumeet.shingi@vcet.edu.inMs. Komal ChampanerkarAsst. Prof.(Ph.D
+pursuing)komal.champanerkar@vcet.edu.inMs. Leena RautAsst.
+Prof.leena.raut@vcet.edu.inMs.Odilia GonsalvesAsst.
+Prof.odilia.gonsalves@vcet.edu.inMr.Ichhanshu JaiswalAsst. Prof.(Ph.D
+pursuing)ichhanshu.jaiswal@vcet.edu.inMr.chinmay vanjareAsst.
+Prof.chinmay.vanjare@vcet.edu.inMs. Chaitali MhatreAsst. Prof.chaitali.mhatre@vcet.edu.in
+Mr. Yogesh Pingle
+Deputy HOD & Asst. Prof.(Ph.D pursuing)
+yogesh.pingle@vcet.edu.in
+Ms. Krunali VartakScraped Data
+Asst. Prof.
+Ms. Maya Varghese
+Ms. Janisa Pereira
+janisa.pereira@vcet.edu.in
+Mr. Sumeet Shingi
+sumeet.shingi@vcet.edu.in
+Ms. Komal Champanerkar
+komal.champanerkar@vcet.edu.in
+Ms. Leena Raut
+leena.raut@vcet.edu.in
+Ms.Odilia Gonsalves
+odilia.gonsalves@vcet.edu.inScraped Data
+Mr.Ichhanshu Jaiswal
+ichhanshu.jaiswal@vcet.edu.in
+Mr.chinmay vanjare
+chinmay.vanjare@vcet.edu.in
+Ms. Chaitali Mhatre
+chaitali.mhatre@vcet.edu.in
+SE1. Shukla Abhay Devnath :  9.79 SGPI2. Kalathiya Deven Gunvanthbhai :   9.08
+ SGPI3. Berde Jayesh Sunil :   9 SGPI
+Syllabus
+Revised 2019-20 :SESyllabus
+Revised 2019-20 :TESyllabus
+Revised 2019-20 :BEHonors & Minor Degree Program :TEPO PSO COR19
+Syllabus
+Revised 2019-20 :
+SyllabusScraped Data
+Revised 2019-20 :
+Syllabus
+Revised 2019-20 :
+Honors & Minor Degree Program :
+PO PSO CO
+NewsletterNEWS LETTER ODD SEM 2023-24Committee DetailsStaff InchargeMs. Leena
+Rautleena.raut@vcet.edu.in
+Newsletter
+Committee Details
+Staff Incharge
+Ms. Leena Raut
+Skills Required for Data Science career:
+Some of the prominent data science roles are listed below :Scraped Data
+Data Scientist
+Data Analyst
+Data Engineer
+Data Mining Engineer
+Data Architect
+Data Statistician
+Project Manager
+Program Outcomes (POs):
+Program Educational Objectives (PEOs):
+Program Specific Outcomes (PSOs):
+PSO1- To apply the knowledge of Data science to analyze, design and implement application
+specific problems with modern AI tools.PSO2- To Analyze problems and design applications to
+forecast, predict and decision-making using IoT, Big data analytics, Artificial Intelligent, Machine
+learning technologies.Scraped Data
+Mr. Yogesh Pingle
+Deputy HOD & Asst. Prof.(Ph.D pursuing)
+yogesh.pingle@vcet.edu.in
+Ms. Krunali Vartak
+Asst. Prof.
+Ms. Maya Varghese
+Ms. Janisa Pereira
+janisa.pereira@vcet.edu.in
+Mr. Sumeet Shingi
+sumeet.shingi@vcet.edu.in
+Ms. Komal Champanerkar
+komal.champanerkar@vcet.edu.inScraped Data
+Ms. Leena Raut
+leena.raut@vcet.edu.in
+Ms.Odilia Gonsalves
+odilia.gonsalves@vcet.edu.in
+Mr.Ichhanshu Jaiswal
+ichhanshu.jaiswal@vcet.edu.in
+Mr.chinmay vanjare
+chinmay.vanjare@vcet.edu.in
+Ms. Chaitali Mhatre
+chaitali.mhatre@vcet.edu.in
+Syllabus
+Revised 2019-20 :
+SyllabusScraped Data
+Revised 2019-20 :
+Syllabus
+Revised 2019-20 :
+Honors & Minor Degree Program :
+PO PSO CO
+Menu
+Useful Links
+Contact

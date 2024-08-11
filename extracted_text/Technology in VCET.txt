@@ -1,0 +1,157 @@
+Scraped Data
+Vidyavardhini's College Of Engineering & Technology, Vasai Road
+??????????????? ???????????? ??? ?????????? ???????????, ??? ???
+(Approved by AICTE, DTE Maharashtra and Affiliated to University of Mumbai)
+NBA & NAAC Accredited
+Industry Sponsored Lab-Robotics
+Home»Industry Sponsored Robotics Lab
+Industry Sponsored Lab by Performance Speciality Products India Pvt. Ltd.Industry
+sponsoredRobotics Labdesignated as a Centre of Excellence (CoE) atVidyavardhinis College of
+Engineering & Technologyserves as a pivotal hub for pioneering advancements in robotics and
+automation. It symbolizes a commitment to pushing the boundaries of technology, fostering a culture
+of innovation, and addressing complex challenges through cutting-edge research and development.
+The establishment of such a centre is not merely an institutional achievement but a transformative
+initiative that aims to shape the future of industries, healthcare, education, and beyond.
+Industry Sponsored Lab by Performance Speciality Products India Pvt. Ltd.
+Industry sponsoredRobotics Labdesignated as a Centre of Excellence (CoE) atVidyavardhinis
+College of Engineering & Technologyserves as a pivotal hub for pioneering advancements inScraped Data
+robotics and automation. It symbolizes a commitment to pushing the boundaries of technology,
+fostering a culture of innovation, and addressing complex challenges through cutting-edge research
+and development. The establishment of such a centre is not merely an institutional achievement but
+a transformative initiative that aims to shape the future of industries, healthcare, education, and
+beyond.
+Objectives :Innovation and Research: The primary goal of the Robotics Lab is to drive innovation
+through rigorous research and development. The lab focuses on creating groundbreaking
+technologies and solutions that can redefine various sectors, from manufacturing to
+healthcareEducational Excellence: By integrating robotics with the curriculum, lab aims to equip
+students with the skills and knowledge necessary to excel in the evolving landscape of technology. It
+provides hands-on experience, fostering a deep understanding of robotics principles and
+applications.Industry Collaboration: Lab seeks to build strong partnerships with industry leaders,
+enabling the translation of academic research into practical, real-world applications. These
+collaborations facilitate the development of commercially viable products and solutions.Societal
+Impact: The lab is dedicated to leveraging robotics to address societal challenges, such as
+improving healthcare delivery, enhancing disaster response, and advancing environmental
+sustainability. Also strives to create solutions that have a meaningful impact on society.Talent
+Development: The lab  is committed to nurturing the next generation of robotics experts and
+innovators. It provides a platform for students, researchers, and professionals to develop their skills
+and contribute to the field of robotics.
+Objectives :Scraped Data
+Impact and Future VisionThe Robotics Lab CoE aims to have a profound impact on various sectors
+by developing technologies that enhance efficiency, productivity, and safety. It envisions a future
+where robotics plays a crucial role in solving global challenges, from improving healthcare and
+education to enhancing industrial automation and sustainability.By establishing a Centre of
+Excellence in robotics, the institute demonstrate their commitment to leading the way in
+technological innovation and making significant contributions to society.
+Impact and Future Vision
+The Robotics Lab CoE aims to have a profound impact on various sectors by developing
+technologies that enhance efficiency, productivity, and safety. It envisions a future where robotics
+plays a crucial role in solving global challenges, from improving healthcare and education to
+enhancing industrial automation and sustainability.
+?	State-of-the-Art Infrastructure: The Robotics Lab CoE is equipped with cutting-edge facilities,
+including advanced robotic platforms, simulation tools, and testing environments. These resources
+enable researchers and students to conduct high-quality experiments and develop innovative
+solutions.?	Interdisciplinary Approach: The lab fosters collaboration across various disciplines, and
+this interdisciplinary approach is essential for addressing the complex and multifaceted challenges in
+robotics.?	Advanced Research Programs: The lab supports a wide range of research programs
+focusing on areas such as autonomous systems, human-robot interaction and machine learning.
+These programs aim to push the frontiers of knowledge and technology.?	Innovation Hub: The labScraped Data
+serves as an innovation hub, encouraging the development of startup companies and fostering an
+entrepreneurial spirit among researchers and students. It provides support for turning innovative
+ideas into successful ventures.
+Yasaka Robotic ArmModel no. YS07-930Number of axes 6Max. Payload 7 kgMax. Stroke 930
+mmApprox. weight 60 kg (without cabinet)Rotrics DexArmDexArm is a 4-axis desktop robot arm with
+modular design and 0.05mm high repeatability. It can be easily turned into a desktop plotter, laser
+engraver, and 3D printer.Including:DexArm3D Printing ModuleLaser Engraving ModuleRotary Soft
+Gripper ModuleRotary Suction Cup ModulePen Holder Module3.5-inch TouchscreenRotrics Studio
+Software (All functions and Scratch programming included)PLA FilamentYasaka Robotic ArmRotrics
+DexArm
+Model no. YS07-930
+Number of axes 6
+Max. Payload 7 kg
+Max. Stroke 930 mm
+Approx. weight 60 kg (without cabinet)
+DexArm is a 4-axis desktop robot arm with modular design and 0.05mm high repeatability. It can be
+easily turned into a desktop plotter, laser engraver, and 3D printer.Scraped Data
+Including:
+Yasaka Robotic Arm
+Rotrics DexArm
+PLC Automation and Drives
+:At VCET, we understand the importance of elevating student?s skills in adapting to newer
+challenges and value the returns of investing in technical skill enhancement. Since last year,
+Siemens Centre of excellence at VCET is established to provide training for our students in the field
+of Automation & Drives. The training module encompasses a wide range of courses designed for
+PLCs, Drives, Controls, HMI, Networks, Process Control, and more. Which subsequently translates
+into effective, flexible, and value based training and real results in productivity, cost reductions and
+process optimization. Through specific courses designed for students, each course schedule
+consists of well balanced theory and provides hands-on training to optimize the knowledge about
+the products. Our fleet of experienced trainers ensures that each participant makes a contribution
+towards productivity and performance improvement in this organization.This centre assist students
+to come up with their own new project ideas and implement them. Center is equipped with various
+kits of Siemens. kits are available under three sections which are as follows:SIMATIC S7 1200 PLC
+kit with HMI (A set of 6 kits package)SINAMICS G120 Trainer (set of 5 kitsSINAMICS DCM 6RA80
+Trainer with DC Motors (A set of 2 kits)Students can have hands on practice on these kits and learnScraped Data
+about it.
+PLC Automation and Drives
+:
+At VCET, we understand the importance of elevating student?s skills in adapting to newer
+challenges and value the returns of investing in technical skill enhancement. Since last year,
+Siemens Centre of excellence at VCET is established to provide training for our students in the field
+of Automation & Drives. The training module encompasses a wide range of courses designed for
+PLCs, Drives, Controls, HMI, Networks, Process Control, and more. Which subsequently translates
+into effective, flexible, and value based training and real results in productivity, cost reductions and
+process optimization. Through specific courses designed for students, each course schedule
+consists of well balanced theory and provides hands-on training to optimize the knowledge about
+the products. Our fleet of experienced trainers ensures that each participant makes a contribution
+towards productivity and performance improvement in this organization.This centre assist students
+to come up with their own new project ideas and implement them. Center is equipped with various
+kits of Siemens. kits are available under three sections which are as follows:
+Objectives :The main objective of Siemens Centre of excellence isTo bridge the gap between
+industry and academics.To provide a competitive edge by helping students to learn, analyze and
+apply theoretical concepts and develop Industry level technology.To provide experiential learningScraped Data
+where students can solve real world problems using state of the art technical material.Sr.
+No.EventNo. of ParticipantsPeriodNo. of DaysDescriptionResource Person1.TTT Program for COE
+on Basic Drives0701/07/2019 to 05/07/2019.05Teachers training programMr. Rohit Thakur Trainer,
+SITRAIN, Siemens India Ltd2TTT Program for COE on S7 12000708/07/2019 to
+12/07/2019.05Teachers training programMrs. Mangle Trainer, SITRAIN, Siemens India
+Ltd.3.Workshop on Basic Programming for PLC S7 12005217/08/201901One day workshop is
+arranged for third year students of Instrumentation EngineeringMr. Prafulla Patil And Mr. Vishal
+Pande Trainers Siemens Centre of Excellence4.Workshop on PLC HMI
+Communication5031/08/201901One day workshop is arranged for third year students of
+Instrumentation Engineering.Mr. Prafulla Patil And Mr. Vishal Pande Trainers Siemens Centre of
+Excellenc5.Workshop on Basic Programming for PLC S7 12007021/09/201901One day workshop is
+arranged for third year students of Mechanical Engineering.Mr. Vishal Pande And Mr. Kamlesh
+Bachkar Trainers Siemens Centre of Excellence6.Workshop on PLC HMI
+Communication7528/09/201901One day workshop is arranged for third year students of Mechanical
+Engineering.Mr. Prafulla Patil And Mr. Kamlesh Bachkar Trainers Siemens Centre of
+Excellence7.Basic PLC S7 1200 + HMI2520/01/ 2020 to 30/01/202010PLC and HMI Programming
+for students of Final year EngineeringMr. Prafulla Patil Mr. Vishal Pande Trainers Siemens Centre of
+Excellence8.Workshop on Basics of AC/DC Motors and Drives5805/10/201901One day workshop is
+arranged for third year students of Instrumentation Engineering.Mr. Prafulla Patil And Mr. Vishal
+Pande Trainers Siemens Centre of Excellence9.One day workshop is arranged for third year
+students of Mechanical Engineering.7312/10/201901One day workshop is arranged for third year
+students of Mechanical Engineering.Mr. Vishal Pande And Mr. Kamlesh Bachkar Trainers Siemens
+Centre of ExcellenceTeam Coordinators :1. Dr. Vikas Gupta2. Mr. Prafulla PatilMembers :1. Ms.
+Kanchan Sarmalkar2. Mr. Vishal Pande3. Ms. Ekta Naik4. Mr. Kamlesh BachkarScraped Data
+Objectives :
+07
+01/07/2019 to 05/07/2019.
+05
+05
+01
+50
+70
+01
+Team Coordinators :
+Members :
+Benefits :Exposure to real industrial products.Hand on training on Siemens products & certification
+with Siemens instruments University program logo.shortened start-up times and fasterScraped Data
+troubleshooting for actual project development.Employability for students will increase.
+Benefits :
+PreviousNext
+FacultyDepartmentDr. Vikas GuptaElectronics and Telecommunication EngineeringMr. Prafulla
+PatilInstrumentation EngineeringMs. Kanchan SarmalkarInstrumentation EngineeringMr. Vishal
+PandeInstrumentation EngineeringMs. Ekta NaikElectronics and Telecommunication EngineeringMr.
+Kamlesh BachkarMechanical Engineering
+Menu
+Useful Links
+Contact

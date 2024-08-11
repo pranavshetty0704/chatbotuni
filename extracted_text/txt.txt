@@ -1,0 +1,356 @@
+Here's a detailed list of recommended reference books for various engineering subjects across 
+different years at Mumbai University. This list aligns with the syllabus for core branches like 
+Computer Engineering, Electronics Engineering, Mechanical Engineer ing, Civil Engineering, and 
+Electrical Engineering.  
+ 
+--- 
+ 
+1. *Engineering Mathematics I & II*  
+   - Higher Engineering Mathematics by B.S. Grewal  
+   - Advanced Engineering Mathematics by Erwin Kreyszig  
+   - A Textbook of Engineering Mathematics by N.P . Bali, Manish Goyal  
+ 
+2. *Engineering Physics I & II*  
+   - Concepts of Modern Physics by Arthur Beiser  
+   - Engineering Physics by H.K. Malik, A.K. Singh  
+   - Engineering Physics by R.K. Gaur, S.L. Gupta  
+ 
+3. *Engineering Chemistry I & II*  
+   - Engineering Chemistry by Jain & Jain  
+   - A Textbook of Engineering Chemistry by Shashi Chawla  
+   - Engineering Chemistry by O.P . Agarwal  
+ 
+4. *Basic Electrical Engineering*  
+   - Basic Electrical Engineering by D.P . Kothari, I.J. Nagrath  
+   - Fundamentals of Electrical Engineering and Electronics by B.L. Theraja  
+ 
+5. *Basic Electronics Engineering*  
+   - Electronic Devices and Circuit Theory by Robert Boylestad, Louis Nashelsky  
+   - Electronic Principles by Albert Malvino, David Bates  
+ 
+6. *Engineering Mechanics*  
+   - Engineering Mechanics: Dynamics by J.L. Meriam, L.G. Kraige     - Engineering Mechanics: Statics by J.L. Meriam, L.G. Kraige  
+ 
+7. *Environmental Studies*  
+   - Environmental Studies by Erach Bharucha  
+   - Environmental Studies: From Crisis to Cure by R. Rajagopalan  
+ 
+8. *Engineering Drawing*  
+   - Engineering Drawing by N.D. Bhatt  
+   - A Textbook of Engineering Drawing by K.L. Narayana, P . Kannaiah  
+ 
+9. *Programming in C*  
+   - Programming in ANSI C by E. Balagurusamy  
+   - Let Us C by Yashavant Kanetkar  
+ 
+10. *Communication Skills*  
+    - Technical Communication: Principles and Practice by Meenakshi Raman, Sangeeta Sharma  
+ 
+--- 
+ 
+1. *Data Structures*  
+   - Data Structures using C by Reema Thareja  
+   - Data Structures and Algorithm Analysis in C by Mark Allen Weiss  
+ 
+2. *Discrete Mathematics*  
+   - Discrete Mathematics and Its Applications by Kenneth H. Rosen  
+   - Discrete Mathematics by Seymour Lipschutz, Marc Lipson  
+ 
+3. *Digital Logic Design*  
+   - Digital Logic and Computer Design by M. Morris Mano  
+   - Fundamentals of Digital Logic with Verilog Design by Stephen Brown, Zvonko Vranesic  
+ 4. *Computer Organization and Architecture*  
+   - Computer Organization and Design by David Patterson, John Hennessy  
+   - Computer Architecture: A Quantitative Approach by John Hennessy, David Patterson  
+ 
+5. *Object -Oriented Programming*  
+   - The Complete Reference: Java by Herbert Schildt  
+   - Thinking in Java by Bruce Eckel  
+ 
+6. *Computer Graphics*  
+   - Computer Graphics: Principles and Practice by John F. Hughes, Andries van Dam  
+   - Computer Graphics with OpenGL by Donald Hearn, M. Pauline Baker  
+1. *Analog Electronics*  
+   - Microelectronic Circuits by Adel S. Sedra, Kenneth C. Smith  
+   - Integrated Electronics: Analog and Digital Circuits and Systems by Jacob Millman, Christos Halkias  
+ 
+2. *Signals and Systems*  
+   - Signals and Systems by Alan V. Oppenheim, Alan S. Willsky  
+   - Signals and Systems by Simon Haykin, Barry Van Veen  
+ 
+3. *Control Systems*  
+   - Modern Control Engineering by Katsuhiko Ogata  
+   - Automatic Control Systems by Benjamin C. Kuo  
+ 
+4. *Network Theory*  
+   - Network Analysis by M.E. Van Valkenburg  
+   - Engineering Circuit Analysis by William H. Hayt, Jack E. Kemmerly  
+ 
+5. *Microprocessors and Microcontrollers*  
+   - The 8051 Microcontroller and Embedded Systems by Muhammad Ali Mazidi, Janice Gillispie 
+Mazidi  
+   - Microprocessor Architecture, Programming, and Applications with the 8085 by Ramesh Gaonkar  1. *Thermodynamics*  
+   - Engineering Thermodynamics by P .K. Nag  
+   - Thermodynamics: An Engineering Approach by Yunus A. Çengel, Michael A. Boles  
+ 
+2. *Fluid Mechanics*  
+   - Fluid Mechanics by Frank M. White  
+   - Fluid Mechanics and Hydraulic Machines by R.K. Bansal  
+ 
+3. *Machine Design*  
+   - Design of Machine Elements by V.B. Bhandari  
+   - Mechanical Engineering Design by J.E. Shigley, C.R. Mischke  
+ 
+4. *Material Science*  
+   - Materials Science and Engineering: An Introduction by William D. Callister  
+   - The Science and Engineering of Materials by Donald R. Askeland, Wendelin J. Wright  
+ 
+5. *Manufacturing Processes*  
+   - Manufacturing Processes for Engineering Materials by Serope Kalpakjian, Steven Schmid  
+   - Production Technology by R.K. Jain  
+ 
+ 
+ 
+1. *Strength of Materials*  
+   - Strength of Materials by R.K. Rajput  
+   - Mechanics of Materials by R.C. Hibbeler  
+ 
+2. *Surveying*  
+   - Surveying Vol. 1, 2, and 3 by B.C. Punmia, Ashok Kumar Jain  
+   - Surveying by S.K. Duggal  
+ 
+3. *Fluid Mechanics*     - Hydraulics and Fluid Mechanics by P .N. Modi, S.M. Seth  
+   - Fluid Mechanics by Frank M. White  
+ 
+4. *Building Construction and Materials*  
+   - Building Construction by Sushil Kumar  
+   - Building Materials by S.K. Duggal  
+ 
+5. *Concrete Technology*  
+   - Concrete Technology by M.S. Shetty  
+   - Properties of Concrete by A.M. Neville  
+ 
+1. *Electrical Machines*  
+   - Electrical Machinery by P .S. Bhimbra  
+   - Electric Machinery and Transformers by Bhag S. Guru, Huseyin R. Hiziroglu  
+ 
+2. *Power Systems*  
+   - Power System Engineering by D.P . Kothari, I.J. Nagrath  
+   - Electrical Power Systems by C.L. Wadhwa  
+ 
+3. *Control Systems*  
+   - Automatic Control Systems by Benjamin C. Kuo  
+   - Modern Control Engineering by Katsuhiko Ogata  
+ 
+4. *Electrical and Electronic Measurements*  
+   - A Course in Electrical and Electronic Measurements and Instrumentation by A.K. Sawhney  
+   - Electronic Instrumentation by H.S. Kalsi  
+ 
+5. *Circuit Theory*  
+   - Engineering Circuit Analysis by William H. Hayt, Jack E. Kemmerly  
+   - Network Analysis by M.E. Van Valkenburg  
+ --- 
+ 
+1. *Operating Systems*  
+   - Operating System Concepts by Abraham Silberschatz, Peter B. Galvin  
+   - Modern Operating Systems by Andrew S. Tanenbaum  
+ 
+2. *Database Management Systems*  
+   - Database System Concepts by Abraham Silberschatz, Henry F. Korth  
+   - Fundamentals of Database Systems by Ramez Elmasri, Shamkant Navathe  
+ 
+3. *Software Engineering*  
+   - Software Engineering: A Practitioner's Approach by Roger S. Pressman  
+   - Fundamentals of Software Engineering by Rajib Mall  
+ 
+4. *Computer Networks*  
+   - Computer Networks by Andrew S. Tanenbaum  
+   - Data Communications and Networking by Behrouz A. Forouzan  
+ 
+5. *Theory of Computation*  
+   - Introduction to the Theory of Computation by Michael Sipser  
+   - Automata, Computability and Complexity by Elaine Rich  
+ 
+1. *Digital Communication*  
+   - Digital and Analog Communication Systems by K. Sam Shanmugam  
+   - Modern Digital and Analog Communication Systems by B.P . Lathi  
+ 
+2. *VLSI Design*  
+   - CMOS VLSI Design by Neil Weste, David Harris  
+   - Principles of CMOS VLSI Design by Neil H.E. Weste, Kamran Eshraghian  
+ 
+3. *Embedded Systems*     - Embedded System Design by Frank Vahid, Tony Givargis  
+   - Embedded Systems: Architecture, Programming and Design by Raj Kamal  
+ 
+4. *Digital Signal Processing*  
+   - Digital Signal Processing by John G. Proakis, Dimitris G. Manolakis  
+   - Discrete -Time Signal Processing by Alan V. Oppenheim, Ronald W. Schafer  
+ 
+5. *Microwave Engineering*  
+   - *Mic  
+ 
+rowave Engineering* by David M. Pozar  
+   - Microwave Devices and Circuits by Samuel Y . Liao  
+1. *Heat Transfer*  
+   - Fundamentals of Heat and Mass Transfer by Frank P . Incropera, David P . DeWitt  
+   - Heat Transfer by J.P . Holman  
+ 
+2. *Theory of Machines*  
+   - Theory of Machines by S.S. Rattan  
+   - Kinematics and Dynamics of Machinery by Charles E. Wilson, J. Peter Sadler  
+ 
+3. *Refrigeration and Air Conditioning*  
+   - Refrigeration and Air Conditioning by C.P . Arora  
+   - Principles of Refrigeration by Roy J. Dossat  
+ 
+4. *Finite Element Analysis*  
+   - Introduction to Finite Elements in Engineering by T.R. Chandrupatla, A.D. Belegundu  
+   - The Finite Element Method by O.C. Zienkiewicz, R.L. Taylor  
+ 
+5. *Mechatronics*  
+   - Mechatronics: Principles and Applications by Godfrey C. Onwubolu  
+   - Introduction to Mechatronics and Measurement Systems by David G. Alciatore, Michael B. Histand   
+1. *Structural Analysis*  
+   - Structural Analysis by R.C. Hibbeler  
+   - Basic Structural Analysis by C.S. Reddy  
+ 
+2. *Geotechnical Engineering*  
+   - Principles of Geotechnical Engineering by Braja M. Das  
+   - Geotechnical Engineering: Principles and Practices by Donald P . Coduto  
+ 
+3. *Transportation Engineering*  
+   - Traffic Engineering by Roger P . Roess, William R. McShane  
+   - Highway Engineering by C.J. Khisty, B.K. Lall  
+ 
+4. *Water Resources Engineering*  
+   - Water Resources Engineering by Larry W. Mays  
+   - Hydrology and Hydraulic Systems by Ram S. Gupta  
+ 
+5. *Construction Management*  
+   - Construction Project Management by K.K. Chitkara  
+   - Project Management for Engineering and Construction by Garold D. Oberlender  
+ 
+1. *Power Electronics*  
+   - Power Electronics: Circuits, Devices and Applications by Muhammad H. Rashid  
+   - Power Electronics by P .S. Bhimbra  
+ 
+2. *High Voltage Engineering*  
+   - High Voltage Engineering by M.S. Naidu, V. Kamaraju  
+   - High Voltage Engineering: Fundamentals by E. Kuffel, W.S. Zaengl  
+ 
+3. *Power System Analysis*  
+   - Power System Analysis by Hadi Saadat     - Modern Power System Analysis by D.P . Kothari, I.J. Nagrath  
+ 
+4. *Electrical Drives*  
+   - Electric Drives: Concepts and Applications by Vedam Subrahmanyam  
+   - Fundamentals of Electric Drives by G.K. Dubey  
+ 
+5. *Control Systems*  
+   - Automatic Control Systems by Benjamin C. Kuo  
+   - Modern Control Engineering by Katsuhiko Ogata  
+ 
+--- 
+1. *Machine Learning*  
+   - Pattern Recognition and Machine Learning by Christopher Bishop  
+   - Machine Learning: A Probabilistic Perspective by Kevin P . Murphy  
+ 
+2. *Artificial Intelligence*  
+   - Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig  
+   - Machine Learning by Tom M. Mitchell  
+ 
+3. *Distributed Systems*  
+   - Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum, Maarten Van Steen  
+   - Distributed Computing: Principles, Algorithms, and Systems by Ajay D. Kshemkalyani, Mukesh 
+Singhal  
+ 
+4. *Information Security*  
+   - Computer Security: Principles and Practice by William Stallings, Lawrie Brown  
+   - Cryptography and Network Security: Principles and Practice by William Stallings  
+ 
+5. *Cloud Computing*  
+   - Cloud Computing: Concepts, Technology & Architecture by Thomas Erl  
+   - Cloud Computing Bible by Barrie Sosinsky   
+1. *Wireless Communication*  
+   - Wireless Communications: Principles and Practice by Theodore S. Rappaport  
+   - Mobile Communications by Jochen Schiller  
+ 
+2. *Optical Communication*  
+   - Fiber -Optic Communication Systems by Govind P . Agrawal  
+   - Optical Fiber Communications: Principles and Practice by John M. Senior  
+ 
+3. *RF and Microwave Engineering*  
+   - Microwave Engineering by David M. Pozar  
+   - RF and Microwave Engineering: Fundamentals of Wireless Communications by Frank Gustrau  
+ 
+4. *Nanoelectronics*  
+   - Introduction to Nanoelectronics by Vladimir V. Mitin, Viatcheslav A. Kochelap, Michael A. Stroscio  
+   - Fundamentals of Nanoelectronics by George W. Hanson  
+ 
+5. *Satellite Communication*  
+   - Satellite Communications by Timothy Pratt, Charles W. Bostian  
+   - Satellite Communication Systems Engineering by Wilbur L. Pritchard, Henri G. Suyderhoud  
+ 
+1. *Robotics*  
+   - Introduction to Robotics: Mechanics and Control by John J. Craig  
+   - Robotics: Control, Sensing, Vision, and Intelligence by K.S. Fu, R.C. Gonzalez, C.S.G. Lee  
+ 
+2. *Automobile Engineering*  
+   - Automotive Mechanics by William H. Crouse, Donald L. Anglin  
+   - Automotive Engineering Fundamentals by Richard Stone, Jeffrey K. Ball  
+ 
+3. *Renewable Energy*  
+   - Renewable Energy: Power for a Sustainable Future by Godfrey Boyle     - Renewable Energy Systems: Advanced Conversion Technologies and Applications by Fang Lin Luo, 
+Hong Ye  
+ 
+4. *Industrial Engineering*  
+   - Industrial Engineering and Management by O.P . Khanna  
+   - Introduction to Work Study by ILO  
+ 
+5. *Advanced Manufacturing Processes*  
+   - Manufacturing Engineering and Technology by Serope Kalpakjian, Steven Schmid  
+   - Advanced Manufacturing Technology by Ravi Prakash  
+1. *Advanced Structural Analysis*  
+   - Advanced Structural Analysis by Devdas Menon  
+   - Matrix Analysis of Structures by Aslam Kassimali  
+ 
+2. *Advanced Geotechnical Engineering*  
+   - Advanced Soil Mechanics by Braja M. Das  
+   - Geotechnical Engineering: Principles and Practices by Donald P . Coduto  
+ 
+3. *Urban Transportation Systems*  
+   - Urban Transportation Planning by Michael Meyer, Eric Miller  
+   - Introduction to Transportation Systems by Joseph Sussman  
+ 
+4. *Advanced Water Resources Engineering*  
+   - Water Resources Systems Planning and Management by Sharad K. Jain, V.P . Singh  
+   - Water Resources Engineering by Larry W. Mays  
+ 
+5. *Construction Project Management*  
+   - Construction Project Management: Planning, Scheduling, and Controlling by K.K. Chitkara  
+   - Project Management for Construction: Fundamental Concepts for Owners, Engineers, Architects, 
+and Builders by Chris Hendrickson  
+1. *Renewable Energy Systems*     - Renewable Energy Systems: The Earthscan Expert Guide to Renewable Energy Technologies for 
+Home and Business by David Thorpe  
+   - Renewable Energy: Power for a Sustainable Future by Godfrey Boyle  
+ 
+2. *Smart Grids*  
+   - Smart Grid: Technology and Applications by Janaka Ekanayake, Kithsiri Liyanage  
+   - Smart Grids: Infrastructure, Technology, and Solutions by Stuart Borlase  
+ 
+3. *Advanced Control Systems*  
+   - Advanced Control Theory: A Relay Feedback Approach by Li Qiu, Kemin Zhou  
+   - Robust Control System Design: Advanced State Space Techniques by Chia -Chi Tsui  
+ 
+4. *Electric Power Quality*  
+   - Electric Power Quality by G.T. Heydt  
+   - Understanding Power Quality Problems: Voltage Sags and Interruptions by Math H. Bollen  
+ 
+5. *High Voltage DC Transmission*  
+   - HVDC Power Transmission Systems: Technology and System Interactions by K.R. Padiyar  
+   - High Voltage Direct Current Transmission: Converters, Systems, and DC Grids by J. Arrillaga, Y .H. 
+Liu, N.R. Watson  
+ 
+--- 
+ 
+This list provides a comprehensive reference guide, but it’s important to consult the latest syllabus 
+and faculty recommendations, as texts can evolve with new editions and advancements in the field.  

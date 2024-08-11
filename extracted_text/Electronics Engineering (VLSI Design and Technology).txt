@@ -1,0 +1,210 @@
+Scraped Data
+Vidyavardhini's College Of Engineering & Technology, Vasai Road
+??????????????? ???????????? ??? ?????????? ???????????, ??? ???
+(Approved by AICTE, DTE Maharashtra and Affiliated to University of Mumbai)
+NBA & NAAC Accredited
+Electronics Engineering (VLSI Design and Technology)
+Home»Electronics Engineering (VLSI DESIGN AND TECHNOLOGY)
+Vidyavardhini?s College of Engineering and Technology (VCET) is a renowned institution known for
+its dedication to academic excellence. Within the realm of electronic engineering, VLSI Design and
+Technology stands out as a specialized branch. This field specifically focuses on the intricate design
+and implementation of integrated circuits (ICs) housing thousands to millions of transistors on a
+solitary chip. VLSI Design and Technology entails the process of crafting an integrated circuit by
+amalgamating thousands or millions of transistors onto a singular chip.VLSI Design Technology
+plays a transformative role in today?s tech-driven world, driving innovation, enabling connectivity,
+and shaping the future of electronics. Its importance spans across industries, from computing and
+communication to entertainment and emerging technologies, making it a critical field for
+technological progress and economic development.Scraped Data
+Vidyavardhini?s College of Engineering and Technology (VCET) is a renowned institution known for
+its dedication to academic excellence. Within the realm of electronic engineering, VLSI Design and
+Technology stands out as a specialized branch. This field specifically focuses on the intricate design
+and implementation of integrated circuits (ICs) housing thousands to millions of transistors on a
+solitary chip. VLSI Design and Technology entails the process of crafting an integrated circuit by
+amalgamating thousands or millions of transistors onto a singular chip.
+VLSI Design Technology plays a transformative role in today?s tech-driven world, driving innovation,
+enabling connectivity, and shaping the future of electronics. Its importance spans across industries,
+from computing and communication to entertainment and emerging technologies, making it a critical
+field for technological progress and economic development.
+?	To promote technological innovation, develop a skilled workforce, foster entrepreneurship.?	To
+enhance the nation?s competitiveness in the global semiconductor industry.?	To contribute to
+economic growth and advancements across various sectors.
+High demand:High demand:?	The increasing complexity of electronics and demand for energy
+efficiency drive a high need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.Scraped Data
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of their
+competence in high-end chip design.
+Specialized Expertise:?	VLSI necessitates mastery in semiconductor design and fabrication,
+drawing skilled professional?s adept at intricate circuitry for high-performance integrated
+circuits.?	The increasing complexity of electronics and demand for energy efficiency drive a high
+need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of their
+competence in high-end chip design.
+Specialized Expertise:?	VLSI necessitates mastery in semiconductor design and fabrication,
+drawing skilled professional?s adept at intricate circuitry for high-performance integrated
+circuits.?	The increasing complexity of electronics and demand for energy efficiency drive a high
+need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of their
+competence in high-end chip design.
+Specialized Expertise:High demand:?	The increasing complexity of electronics and demand for
+energy efficiency drive a high need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of their
+competence in high-end chip design.Scraped Data
+Specialized Expertise:
+?	VLSI necessitates mastery in semiconductor design and fabrication, drawing skilled professional?s
+adept at intricate circuitry for high-performance integrated circuits.?	VLSI necessitates mastery in
+semiconductor design and fabrication, drawing skilled professional?s adept at intricate circuitry for
+high-performance integrated circuits.?	The increasing complexity of electronics and demand for
+energy efficiency drive a high need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of their
+competence in high-end chip design.
+Specialized Expertise:High demand:?	The increasing complexity of electronics and demand for
+energy efficiency drive a high need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of their
+competence in high-end chip design.Specialized Expertise:
+?	VLSI necessitates mastery in semiconductor design and fabrication, drawing skilled professional?s
+adept at intricate circuitry for high-performance integrated circuits.?	VLSI necessitates mastery in
+semiconductor design and fabrication, drawing skilled professional?s adept at intricate circuitry for
+high-performance integrated circuits.?	The increasing complexity of electronics and demand for
+energy efficiency drive a high need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of theirScraped Data
+competence in high-end chip design.High demand:?	The increasing complexity of electronics and
+demand for energy efficiency drive a high need for VLSI professionals.
+Emerging technology:?	VLSI plays a pivotal role in shaping emerging technologies such as AI, IoT,
+and 5G, establishing the foundation for interconnected systems.
+Career opportunities:?	VLSI Engineers in India and overseas are in great demand because of their
+competence in high-end chip design.Specialized Expertise:?	VLSI necessitates mastery in
+semiconductor design and fabrication, drawing skilled professional?s adept at intricate circuitry for
+high-performance integrated circuits.Specialized Expertise:?	VLSI necessitates mastery in
+semiconductor design and fabrication, drawing skilled professional?s adept at intricate circuitry for
+high-performance integrated circuits.
+RTL Design Engineer:RTL design engineer involves creating and implementing designs using
+Verilog. They must know the complete ASIC/SoC design flow and must be good at debug.SoC
+Verification Engineer:A SoC verification engineer verifies a design?s functionality; this is done using
+a High-Level Verification Language such as System Verilog and UVMPhysical Design Engineer:A
+Physical Design Engineer is responsible for working with computer chips, circuits, and related
+components. They are in charge of analysing semiconductors, creating processor layout circuits,
+developing microchipsProcess Integration Engineer:A process integration engineer is responsibleScraped Data
+for designing, implementing, and maintaining integrated systems and processesTest Engineer:Test
+engineers in VLSI are responsible for developing and implementing test strategies and plans for
+ensuring the quality and reliability of ICs.Product Validation Engineer:ensuring the product meets
+the required standards and specifications. they help companies minimize defects and improve
+product quality, ultimately leading to customer satisfactionTechnical Manager:oversees the
+development, implementation and maintenance of technological company systems and processes,
+including troubleshooting any potential issues.Application Engineer:An AE role is the best choice for
+this role if he/she is communicative, a strong presenter, good at developing relationships, and good
+at technology,CAD Engineer:A CAD engineer must be very conversant with the complete design
+flow from spec. to tape out and have mastery over EDA tool usage, scripting.Field Application
+Engineer:A career as a Field Application Engineer (FAE) requires the person to be proficient in
+technology. FAEs are the bridge between the customers and the R&D
+department.Analog/Mixed-Signal IC Designer:A mixed signal design engineer contributes to the
+entire life cycle of a mixed signal integrated circuit. Your duties include the design of analog cells,
+performing verification tasks, validation and simulation of device assembly.FPGA Design
+Engineer:FPGA Design Engineers develop complex designs with advanced algorithms in HDL that
+will be deployed in unique, complex systems for our customers. They perform requirements
+development and definition, design architecture and implementation, design simulation, and
+hardware test and validation.Research And Development Engineer:focuses on Training, Incubating,
+and Building Capacity thru an VLSI Engineering Development program.
+RTL Design Engineer:RTL design engineer involves creating and implementing designs using
+Verilog. They must know the complete ASIC/SoC design flow and must be good at debug.Scraped Data
+SoC Verification Engineer:A SoC verification engineer verifies a design?s functionality; this is done
+using a High-Level Verification Language such as System Verilog and UVM
+Physical Design Engineer:A Physical Design Engineer is responsible for working with computer
+chips, circuits, and related components. They are in charge of analysing semiconductors, creating
+processor layout circuits, developing microchips
+Process Integration Engineer:A process integration engineer is responsible for designing,
+implementing, and maintaining integrated systems and processes
+Test Engineer:Test engineers in VLSI are responsible for developing and implementing test
+strategies and plans for ensuring the quality and reliability of ICs.
+Product Validation Engineer:ensuring the product meets the required standards and specifications.
+they help companies minimize defects and improve product quality, ultimately leading to customer
+satisfaction
+Technical Manager:oversees the development, implementation and maintenance of technological
+company systems and processes, including troubleshooting any potential issues.
+Application Engineer:An AE role is the best choice for this role if he/she is communicative, a strong
+presenter, good at developing relationships, and good at technology,
+CAD Engineer:A CAD engineer must be very conversant with the complete design flow from spec.Scraped Data
+to tape out and have mastery over EDA tool usage, scripting.
+Field Application Engineer:A career as a Field Application Engineer (FAE) requires the person to be
+proficient in technology. FAEs are the bridge between the customers and the R&D department.
+Analog/Mixed-Signal IC Designer:A mixed signal design engineer contributes to the entire life cycle
+of a mixed signal integrated circuit. Your duties include the design of analog cells, performing
+verification tasks, validation and simulation of device assembly.
+FPGA Design Engineer:FPGA Design Engineers develop complex designs with advanced
+algorithms in HDL that will be deployed in unique, complex systems for our customers. They perform
+requirements development and definition, design architecture and implementation, design
+simulation, and hardware test and validation.
+Research And Development Engineer:focuses on Training, Incubating, and Building Capacity thru
+an VLSI Engineering Development program.
+Dr. Amrita Ruperee
+Associate Professor  & Head of DepartmentScraped Data
+The Department of Electronics and Telecommunication Engineering (EXTC) was established in the
+year 1994 with the aim of providing state of the art education in the field of Electronics and
+Telecommunication Engineering. Since then, the department has evolved to match the
+ever-changing needs of the industry with highly qualified faculty members and staff. We provide
+Undergraduate program with an intake of 60 seats. Ensuring the efforts for continuous development
+the Department is accredited by National Board of Accreditation (NBA) from 2012- 2015,
+reaccredited fromJuly 2022 to June 2025and is permanently affiliated to University of Mumbai.
+The department is equipped with the state-of-the-art laboratories with advance equipment and
+recent software for academic studies and research along with industry labs set up by Texas
+Instruments. Highly qualified and experienced faculty members (more than 15 years) are the
+greatest asset to the department. To make the teaching-learning process interesting and interactive
+the faculty uses various instructional pedagogies, innovative techniques, and ICT tools.
+Department is also associated with international and national students? chapters like IEEE and
+IETE.  Department in association with student chapters, regularly conducts various activities on
+emerging technology trends. The department strives for all round development of the students by
+implementing Outcome Based Education systems with regular focus on extra-curricular activities like
+sports, cultural events, and technical events along with academic schedule.
+Department has signed MOUs with 12 industries, enhancing placement support, and fostering
+career growth of students. The Department encourages industry projects, Internships and organizes
+industrial visits with the aim of providing practical learning opportunities essential for student
+development and allowing to experience the working environment and gain awareness of industryScraped Data
+standards. The consistent placements in renowned national and international Companies have
+enabled the students to contribute their skills and knowledge globally.
+Vision
+Mission
+The composition of the PAQIC Committee of Electronics & Telecommunication Engineering
+department for the academic year 2022-23 is as follows::
+Members:
+Frequency Of Meeting:
+Roles and responsibilities:
+Program Outcomes (POs):
+Program Educational Objectives (PEOs):
+Program Specific Outcomes (PSOs):
+Dr. Vikas GuptaScraped Data
+Professor & Dean Academics
+Dr. Amrita Ruperee
+Associate Professor & Head Of Department
+Dr. Sunayana Jadhav
+Asst. Prof. & First Year Engg. Co-Ordinator
+sunayana.jadhav@vcet.edu.in
+Ms. Shaista Khan
+Ms. Shraddha Gosavi
+Ms. Sandhya Supalkar
+sandhya.supalkar@vcet.edu.in
+Ms. Ashwini Katkar
+Ms. Neha GharatScraped Data
+Ms. Ekta Naik
+Ms. Trupti Shah
+trupti.shah@vcet.edu.in
+Mr. Sandeep Pawar
+Toppers: 22-23
+Toppers: 21-22
+Syllabus :R 19
+PO PSO CO
+ :
+Menu
+Useful Links
+Contact
